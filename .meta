@@ -1,0 +1,20 @@
+{
+    "projects": {
+        "app":                        "git@github.com:magsdk/app.git",
+        "boilerplate":                "git@github.com:magsdk/boilerplate.git",
+        "component-check-list":       "git@github.com:magsdk/component-check-list.git",
+        "component-footer":           "git@github.com:magsdk/component-footer.git",
+        "component-layout":           "git@github.com:magsdk/component-layout.git",
+        "component-layout-list":      "git@github.com:magsdk/component-layout-list.git",
+        "component-list":             "git@github.com:magsdk/component-list.git",
+        "component-modal":            "git@github.com:magsdk/component-modal.git",
+        "component-modal-check-list": "git@github.com:magsdk/component-modal-check-list.git",
+        "component-panel":            "git@github.com:magsdk/component-panel.git",
+        "component-panel-set":        "git@github.com:magsdk/component-panel-set.git",
+        "component-radio-list":       "git@github.com:magsdk/component-radio-list.git",
+        "component-scroll-area":      "git@github.com:magsdk/component-scroll-area.git",
+        "component-value-list":       "git@github.com:magsdk/component-value-list.git",
+        "data-cacher":                "git@github.com:magsdk/data-cacher.git",
+        "eslint":                     "git@github.com:magsdk/eslint.git"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "name": "@magsdk/meta",
+    "version": "1.0.0",
+    "description": "MAG SDK repositories management.",
+    "author": {
+        "name": "Stanislav Kalashnik",
+        "email": "darkpark.main@gmail.com"
+    },
+    "private": true,
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/magsdk/meta.git"
+    },
+    "dependencies": {
+        "meta-npm": "^0.0.28"
+    },
+    "keywords": [
+        "mag",
+        "sdk",
+        "magsdk",
+        "framework",
+        "meta"
+    ],
+    "license": "GPL-3.0"
+}
