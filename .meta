@@ -15,6 +15,7 @@
         "component-scroll-area":      "git@github.com:magsdk/component-scroll-area.git",
         "component-value-list":       "git@github.com:magsdk/component-value-list.git",
         "data-cacher":                "git@github.com:magsdk/data-cacher.git",
-        "eslint":                     "git@github.com:magsdk/eslint.git"
+        "eslint":                     "git@github.com:magsdk/eslint.git",
+        "runner":                     "git@github.com:magsdk/runner.git"
     }
 }
