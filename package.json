@@ -1,6 +1,6 @@
 {
     "name": "@magsdk/meta",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "description": "MAG SDK repositories management.",
     "author": {
         "name": "Stanislav Kalashnik",
