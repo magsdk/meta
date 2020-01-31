@@ -7,7 +7,7 @@ Deployment:
 
 ```bash
 npm install
-npx meta git clone
+npx meta git update
 npx meta npm install
 sudo npx meta npm link --all
 ```
